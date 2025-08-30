@@ -1,3 +1,4 @@
+// Função que calcula o fatorial de um número:
 function fatorializacao(numero) {
 
 	let numAnt = numero - 1;
@@ -13,4 +14,5 @@ function fatorializacao(numero) {
 
 }
 
+// Digite aqui o número:
 fatorializacao(4);
