@@ -18,3 +18,15 @@ lista2[1];
 // 6.	Crie uma lista com 3 nomes e exiba no console apenas o último elemento.
 let lista3 = ["Dejanir", "Léia", "Mariane"];
 lista3[2];
+
+// 7.   Remova um item da lista linguagensDeProgramacao.
+linguagensDeProgramacao.pop("GoLang");
+
+// 8.   Retorne na tela quantos itens a lista3 possui.
+lista3.length;
+
+// 9.   Exiba na tela o último item da lista linguagensDeProgramacao.
+linguagensDeProgramacao[linguagensDeProgramacao.length - 1];
+
+// 10.  Verifique se um item específico está incluso ou não na lista2.
+lista2.includes("Vinícius");
