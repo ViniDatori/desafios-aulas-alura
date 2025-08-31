@@ -2,7 +2,7 @@
 console.log("Seja bem-vindo!");
 
 // 2.	Crie uma variável chamada "nome" e atribua a ela o seu nome. Em seguida, utilize o console.log para exibir a mensagem "Olá, [seu nome]!" no console do navegador.
-let nome = "Vinícius";
+let nome = 'Vinícius';
 console.log(`Olá, ${nome}!`);
 
 // 3.	Crie uma variável chamada "nome" e atribua a ela o seu nome. Em seguida, utilize o alert para exibir a mensagem "Olá, [seu nome]!" 

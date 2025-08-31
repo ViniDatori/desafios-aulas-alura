@@ -1,11 +1,11 @@
-// 1.	Crie um contador que comece em 1 e vá até 10 usando um loop while. Mostre cada número.
+// 1. Crie um contador que comece em 1 e vá até 10 usando um loop while. Mostre cada número.
 let contador1 = 0;
 while(contador1 != 10) {
     contador1++;
     console.log(contador1);
 }
 
-// 2.	Crie um contador que começa em 10 e vá até 0 usando um loop while. Mostre cada número.
+// 2. Crie um contador que começa em 10 e vá até 0 usando um loop while. Mostre cada número.
 let contador2 = 10;
 while(contador2 != 0) {
     contador2--;
