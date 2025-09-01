@@ -10,7 +10,7 @@ function calcularFatorial(numero) {
     let fatorial = numero * (numero - 1);
     numero--;
     console.log(fatorial);
-    while(numeroFixo != 1) {
+    while(numero != 1) {
         fatorial = fatorial * (numero - 1);
         numero--;
         console.log(fatorial);
